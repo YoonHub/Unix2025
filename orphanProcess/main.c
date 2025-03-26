@@ -6,11 +6,10 @@
 int main()
 {
     int pid = fork();
-    if (pid > 0){
+    if(pid > 0){
         printf("In Parent Processing");
     }
     else if(pid == 0){
-        sleep(30);
         printf("In Child Process");
     }
     return 0;

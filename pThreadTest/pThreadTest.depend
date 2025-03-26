@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742889573 source:/home/yoon/Documents/GitHub/Unix2025/pThreadTest/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
