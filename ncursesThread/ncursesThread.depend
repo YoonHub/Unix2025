@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743985936 source:/home/yoon/Documents/GitHub/Unix2025/ncursesThread/main.c
+	<pthread.h>
+	<ncurses.h>
+	<unistd.h>
+

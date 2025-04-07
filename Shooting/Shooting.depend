@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1743986839 source:/home/yoon/Documents/GitHub/Unix2025/Shooting/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+
