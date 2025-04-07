@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743856020 source:/home/yoon/Documents/GitHub/Unix2025/homework_4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<fcntl.h>
+	<mqueue.h>
+	<semaphore.h>
+	<unistd.h>
+	<string.h>
+
