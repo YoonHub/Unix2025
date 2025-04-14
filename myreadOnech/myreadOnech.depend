@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744160628 source:/home/yoon/Documents/GitHub/Unix2025/myreadOnech/main.c
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+
