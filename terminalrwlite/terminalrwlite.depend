@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744592129 source:/home/yoon/Documents/GitHub/Unix2025/terminalrwlite/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
