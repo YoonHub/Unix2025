@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1746161669 source:/home/yoon/Documents/GitHub/Unix2025/Homework5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<termios.h>
+	<time.h>
+	<string.h>
+	<sys/ioctl.h>
+
