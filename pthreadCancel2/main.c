@@ -10,15 +10,16 @@
 
 #include <unistd.h>
 
-#define checkResults(string, val) {             \
+#define checkResults(string, val)
+{
 
- if (val) {                                     \
+ if (val) {
 
-   printf("Failed with %d at %s", val, string); \
+   printf("Failed with %d at %s", val, string);
 
-   exit(1);                                     \
+   exit(1);
 
- }                                              \
+ }
 
 }
 
